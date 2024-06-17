@@ -13,10 +13,28 @@ This assignment aims to familiarize you with the tools and configurations necess
 1. Select Your Operating System (OS):
    Choose an operating system that best suits your preferences and project requirements. Download and Install Windows 11. https://www.microsoft.com/software-download/windows11
 
+Checked system requirements to ensure compatibility.
+Backed up my data to prevent data loss.
+Downloaded Windows 11 from the Microsoft website using the appropriate tool.
+Installed Windows 11 using either the Installation Assistant or bootable media.
+Set up Windows 11 and install updates.
+
 2. Install a Text Editor or Integrated Development Environment (IDE):
-   Select and install a text editor or IDE suitable for your programming languages and workflow. Download and Install Visual Studio Code. https://code.visualstudio.com/Download
+   Select and install a text editor or IDE suitable for your programming languages and workflow. Download and Install Visual Studio Code. https://code.visualstudio.com/DownloadI went to https://code.visualstudio.com/.
+   
+Clicked Download for Windows.
+Run the downloaded installer (VSCodeUserSetup-{version}.exe).
+Followed the setup wizard instructions.
+Launched VS Code from the Start menu or desktop icon.
+Customized VS Code with extensions and settings as needed.
+
+https://1drv.ms/i/c/c09638502c6adf76/ER2SmuOD9D9Ph20bU9z5YPkBFpkRt5_0N3I5UoTGeeRlQg?e=4XWI9F
+
+
 3. Set Up Version Control System:
    Install Git and configure it on your local machine. Create a GitHub account for hosting your repositories. Initialize a Git repository for your project and make your first commit. https://github.com
+
+https://1drv.ms/i/c/c09638502c6adf76/ER2SmuOD9D9Ph20bU9z5YPkBFpkRt5_0N3I5UoTGeeRlQg?e=4XWI9F
 
 4. Install Necessary Programming Languages and Runtimes:
   Instal Python from http://wwww.python.org programming language required for your project and install their respective compilers, interpreters, or runtimes. Ensure you have the necessary tools to build and execute your code.
@@ -24,8 +42,18 @@ This assignment aims to familiarize you with the tools and configurations necess
 5. Install Package Managers:
    If applicable, install package managers like pip (Python).
 
+   
+https://1drv.ms/i/c/c09638502c6adf76/ER8GvNG0H4FAqcW9-y2paPABWfvuVGFgy00ya6EW0KCKvQ?e=LpaGu3
+
 6. Configure a Database (MySQL):
    Download and install MySQL database. https://dev.mysql.com/downloads/windows/installer/5.7.html
+
+Downloaded and run the MySQL Installer.
+Chose the setup type suitable for your needs.
+Installed MySQL components and check requirements.
+Configured MySQL Server and set root password.
+Applied configuration and complete the installation.
+Verified the installation using MySQL Workbench or command line.
 
 7. Set Up Development Environments and Virtualization (Optional):
    Consider using virtualization tools like Docker or virtual machines to isolate project dependencies and ensure consistent environments across different machines.
@@ -33,8 +61,19 @@ This assignment aims to familiarize you with the tools and configurations necess
 8. Explore Extensions and Plugins:
    Explore available extensions, plugins, and add-ons for your chosen text editor or IDE to enhance functionality, such as syntax highlighting, linting, code formatting, and version control integration.
 
+https://1drv.ms/i/c/c09638502c6adf76/EdiFJeZXtdtCifSVHGIRZZoB722aWo4rKUoh0Mpro07ZqA?e=gocigZ
+
 9. Document Your Setup:
     Create a comprehensive document outlining the steps you've taken to set up your developer environment. Include any configurations, customizations, or troubleshooting steps encountered during the process. 
+How i installed vs code
+
+I went to https://code.visualstudio.com/.
+Clicked Download for Windows.
+Run the downloaded installer (VSCodeUserSetup-{version}.exe).
+Followed the setup wizard instructions.
+Launched VS Code from the Start menu or desktop icon.
+Customized VS Code with extensions and settings as needed. installed vs code
+
 
 #Deliverables:
 - Document detailing the setup process with step-by-step instructions and screenshots where necessary.
@@ -52,3 +91,5 @@ Submit your document and GitHub repository link through the designated platform 
 - Adherence to submission guidelines and deadlines.
 
 Note: Feel free to reach out for clarification or assistance with any aspect of the assignment.
+
+
